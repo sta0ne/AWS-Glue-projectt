@@ -1,5 +1,5 @@
 # AWS Glue ETL
-![]().
+![](https://github.com/sta0ne/AWS-Glue-projectt/blob/main/Images/Screenshot%202026-03-09%20184932.png).
 
 ## 📌 Project Overview
 An automated ETL pipeline that processes raw sales data from S3, performs schema validation, calculates line-item revenue, and stores the output in a partitioned Parquet format.
