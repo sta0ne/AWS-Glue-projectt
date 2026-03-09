@@ -1,4 +1,4 @@
-# AWS Glue ETL
+# AWS Glue ETL Pipeline with Incremental Loading
 ![](https://github.com/sta0ne/AWS-Glue-projectt/blob/main/Images/Screenshot%202026-03-09%20184932.png)
 
 ## 📌 Project Overview
